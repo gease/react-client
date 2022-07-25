@@ -1,0 +1,9 @@
+nav {
+    display: flex;
+    width: 300px;
+    justify-content: space-evenly;
+}
+
+nav a.active {
+    font-weight: bold;
+}
